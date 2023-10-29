@@ -30,4 +30,4 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Application Link:
 
-[See the website here](https://Grandpapo.github.io/Module-3-Challenge-Marcos-Wang/Develop/index.html)
+[See the website here](https://Marcos-Wang.github.io/Module-3-Challenge-Marcos-Wang/Develop/index.html)
